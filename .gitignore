@@ -12,3 +12,8 @@ web-build/
 
 # macOS
 .DS_Store
+
+# Emojvi
+.env.js
+GoogleService-Info.plist
+google-services.json
